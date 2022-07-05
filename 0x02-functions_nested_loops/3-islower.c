@@ -6,7 +6,8 @@
  * 0
  *
  * @c: The character in ASCII code
- * return - Outputs 1 if true. Outputs 0 if false.
+ *
+ * Return: Outputs 1 if true. Outputs 0 if false.
  */
 int _islower(int c)
 {
