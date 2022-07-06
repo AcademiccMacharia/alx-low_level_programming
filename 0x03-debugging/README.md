@@ -1,5 +1,6 @@
-#DEBUGGING
-###Debugging processes as well as rubber duck debugging
+# DEBUGGING
+------------------------------------------------------
+### Debugging processes as well as rubber duck debugging
 
 Debbugging is the process of finding and fixing errors in your code that prevent it from running correctly.
 Debugging can  be done using tools such as gdb or manually.
