@@ -16,7 +16,7 @@ void puts2(char *str)
 			_putchar('\n');
 			break;
 		}
-		if (str[ind] % 2 == 0)
+		if (ind % 2 == 0)
 			_putchar(str[ind]);
 		ind++;
 	}
