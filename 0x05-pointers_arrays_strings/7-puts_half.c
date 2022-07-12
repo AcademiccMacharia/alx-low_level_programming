@@ -28,6 +28,6 @@ void puts_half(char *str)
 	}
 
 	for (i++; i < ind; i++)
-		_putchar(str[ind]);
+		_putchar(str[i]);
 	_putchar('\n');
 }
