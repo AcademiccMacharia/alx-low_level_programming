@@ -2,8 +2,8 @@
 
 /**
  * print_array - function that prints n elements of an array of integers
- * @i: integer count
  * @n: number of array
+ * @a: array
  * Return: no return
  *
  */
