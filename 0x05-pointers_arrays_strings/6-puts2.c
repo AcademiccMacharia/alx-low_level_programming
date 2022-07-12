@@ -18,6 +18,6 @@ void puts2(char *str)
 		}
 		if (str[ind] % 2 == 0)
 			_putchar(str[ind]);
-		count++;
+		ind++;
 	}
 }
