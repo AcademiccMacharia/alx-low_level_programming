@@ -6,7 +6,7 @@ My goal is to be able to write several function prototypes regarding this concep
 #### Function Prototypes:
 | Prototype | Function |
 | --------- | -------- |
-| char *_strcat(char *dest, char *src) | function appends the src string to the dest string, overwriting the terminating null byte (\0) at the end of dest, and then adds a terminating null byte |
+| `char *_strcat(char *dest, char *src)` | Function that concatenates two strings |
 
 2. char *_strncat(char *dest, char *src, int n) - function that concatenates two strings
 
