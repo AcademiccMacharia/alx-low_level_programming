@@ -4,9 +4,9 @@ In this directory I explore the basics of C. Each file has Bash scripts that are
 
 Certain concepts to be encountered are:
 
-				|printf|
-				|putchar|
-				|Betty coding style|
+				printf
+				putchar
+				Betty coding style
 #### Files
 
 | Filename | Description |
