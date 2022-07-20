@@ -22,5 +22,5 @@ Directory Meme 😂
 | `int _pow_recursion(int x, int y);` | Function that returns the value of `x` raised to the power of `y` |
 | `int _sqrt_recursion(int n);` | Function that returns the natural square root of a number |
 | `int is_prime_number(int n);` | Function that returns `1` if the input integer is a prime number |
-| `int is_palindrome(char *s);` | Function that returns `1` if a strin is a pallindrome and `0` if not |
+| `int is_palindrome(char *s);` | Function that returns `1` if a string is a pallindrome and `0` if not |
 | `int wildcmp(char *s1, char *s2);` | Function that compares two strings and returns `1` if identical |
