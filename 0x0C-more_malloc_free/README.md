@@ -8,7 +8,7 @@ Delving more into malloc in this directory. I explore `exit`, `realloc` and `cal
 
 Food For Thought
 
-![Thoughts] (https://imgs.search.brave.com/OlxZq7W-LA3t2nvId0wdMCmHIADZ0A1GitQoqruXpxY/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/OVM4OVFRRDRvNFdF/RC1aRVdHTm5RSGFE/NCZwaWQ9QXBp)
+![Thoughts](https://imgs.search.brave.com/OlxZq7W-LA3t2nvId0wdMCmHIADZ0A1GitQoqruXpxY/rs:fit:905:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/OVM4OVFRRDRvNFdF/RC1aRVdHTm5RSGFE/NCZwaWQ9QXBp)
 
 | Function Prototype | Description |
 | --------- | ---------- |
