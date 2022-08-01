@@ -1,5 +1,6 @@
-#ifndef _DOG_H
-#define _DOG_H
+#ifndef _DOG_H_
+#define _DOG_H_
+#include <stdio.h>
 
 /**
  * struct dog - struct that stores information about a dog.
