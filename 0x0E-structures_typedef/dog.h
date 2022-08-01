@@ -3,6 +3,11 @@
 #include <stdio.h>
 
 /**
+ * dog_t - Typedef for struct dog
+ */
+typedef struct dog dog_t;
+
+/**
  * struct dog - struct that stores information about a dog.
  * @name: name of the dog
  * @owner: owner of the dog
