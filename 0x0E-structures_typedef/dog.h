@@ -2,9 +2,9 @@
 #define DOG_H
 /**
  * struct dog - struct that stores information about a dog.
- * @name - name of the dog
- * @owner - owner of the dog
- * @age - age of the dog
+ * @name: name of the dog
+ * @owner: owner of the dog
+ * @age: age of the dog
  *
  */
 struct dog
