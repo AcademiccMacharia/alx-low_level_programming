@@ -12,6 +12,7 @@ It follows the following synytax when being declared:
 Since its contents are stored in the contiguous memory, the `sizeof` operator must be used to get the number of bytes needed to store a particular type of `struct`
 
 `typedef` is used to give a type a new name.
+
 -----------
 Directory meme 😂
 
@@ -27,4 +28,4 @@ The table below contains descriptions of functions and function prototypes regar
 | `dog_t *new_dog(char *name, float age, char *owner);` | Function that creates a new "dog" |
 | `void free_dog(dog_t *d);` | Function that frees dogs |
 
-# #cisfun
+#### #cisfun
