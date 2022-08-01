@@ -1,5 +1,6 @@
-#ifndef DOG_H
-#define DOG_H
+#ifndef _DOG_H
+#define _DOG_H
+
 /**
  * struct dog - struct that stores information about a dog.
  * @name: name of the dog
