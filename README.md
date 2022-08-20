@@ -10,7 +10,7 @@
 
 --------
 
-This is a repository that delves into low_level_programming using the C language. From the basic C commands to its algorithms and data structures, they are all covered in this repository in specific directories.
+This is a repository that delves into low_level_programming using the `C language`. From the basic C commands to its algorithms and data structures, they are all covered in this repository in specific directories.
 
 Each directory in the repository seeks to cover a particular area of `C` in depth. A further description of what each directory contains will be given below in a table. 
 
