@@ -13,4 +13,3 @@ Debugging can  be done using tools such as gdb or manually.
 4. Print debugging e.t.c
    
                   	return (0);
-![pic](https://d.novoresume.com/images/doc/tech-resume-template.png)
