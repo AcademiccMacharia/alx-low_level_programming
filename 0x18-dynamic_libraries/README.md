@@ -3,8 +3,9 @@
 -------
 
 Dynamic or shared libraries consist of separate files containing separate pieces of object code. These files are dynamically linked together to form a single piece of object code. They are stored in the memory and accessed via their addresses. Dynamic libraries are saved using:
-			Windows - .dll(Dynamic link library)
-			Linux - .so(Shared object)
+
+				Windows - .dll(Dynamic link library)
+				Linux - .so(Shared object)
 
 
 Directory meme 😂
