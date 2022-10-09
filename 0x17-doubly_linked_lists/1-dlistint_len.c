@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * dlistint_len - return the number of elements 
+ * dlistint_len - return the number of elements
  * in the linked list
  *
  * @h: head of the list
