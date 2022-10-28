@@ -19,7 +19,7 @@ In `PHP`, hash tables are **ordered**. Wait… WAT? How is this even possible?
 
 ![surprised person](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/5ebbea5dea5a575b38243d597604000715982925.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221028T132333Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9858d1f0d070554890470d78a1fbe882b3dcf065023add305509fe85c0980b6c)
  
-The table below shows the files used in this directory as well as their functions:
+The table below shows the files used in this directory as well as their descriptions:
 
 | **Files** | **Description** |
 | --------- | ----------- |
